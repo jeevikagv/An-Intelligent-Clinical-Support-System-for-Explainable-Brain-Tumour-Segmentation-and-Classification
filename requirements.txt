@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+opencv-python
+h5py
+matplotlib
+joblib
+SimpleITK
+shap
+lime
+torch
+torchvision
+jupyterlab
+ipywidgets

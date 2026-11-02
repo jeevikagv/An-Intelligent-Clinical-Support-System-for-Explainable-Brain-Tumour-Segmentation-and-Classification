@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the accompanying manuscript and the Figshare brain tumour dataset."
+title: "ICSS: Explainable Brain Tumour Segmentation and Classification"
+type: software
+authors:
+  - family-names: Sathya
+    given-names: A
+  - family-names: Tharini V
+    given-names: Jeevika
+  - family-names: Aruna
+    given-names: A
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/ICSS-Explainable-Brain-Tumor-Analysis"

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data and generated artefacts
+data/
+figshare_brain_tumor/
+icss_work/
+*.mat
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
